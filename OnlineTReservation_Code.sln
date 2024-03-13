@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OnlineTReservation_Code", ".", "{9C5E8CB8-9BB6-4928-A24D-2F4D54BEF1DF}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/OnlineTReservation_Code"
+		Debug.AspNetCompiler.PhysicalPath = "..\OnlineTReservation_Code\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\OnlineTReservation_Code\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/OnlineTReservation_Code"
+		Release.AspNetCompiler.PhysicalPath = "..\OnlineTReservation_Code\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\OnlineTReservation_Code\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49318"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C5E8CB8-9BB6-4928-A24D-2F4D54BEF1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5E8CB8-9BB6-4928-A24D-2F4D54BEF1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
